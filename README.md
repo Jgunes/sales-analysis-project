@@ -17,3 +17,6 @@ Python automation project for product sales analysis and PDF reporting.
 ## Output Files
 - sales_report.pdf
 - sales_chart.png
+
+## Author
+JG Automation & Data

@@ -20,3 +20,6 @@ Python automation project for product sales analysis and PDF reporting.
 
 ## Author
 JG Automation & Data
+
+## Preview
+![Sales Chart](sales_chart.png)
